@@ -2,6 +2,6 @@
 
 # Zwanenburg-Regels
 
-- [Server Regels](https://github.com/Amped16/as_carthief)
+- [Server Regels](https://github.com/ZwanenBurgRP/ZwanenBurgRP/blob/main/Server%20regels)
 - [Politie Regels](https://github.com/Amped16/as_carthief)
 - [Criminele Regels](https://github.com/ZwanenBurgRP/ZwanenBurgRP/blob/main/Criminele%20regels)
