@@ -4,4 +4,4 @@
 
 - [Server Regels](https://github.com/Amped16/as_carthief)
 - [Politie Regels](https://github.com/Amped16/as_carthief)
-- [Criminele Regels](https://github.com/Amped16/as_carthief)
+- [Criminele Regels](https://github.com/ZwanenBurgRP/ZwanenBurgRP/blob/main/Criminele%20regels)
